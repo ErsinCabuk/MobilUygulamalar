@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Temel Komutlar Unite 3</string>
+    <string name="uyg1">Uygulama 1 (Mantıksal)</string>
+    <string name="uyg2">Uygulama 2 (Tam Sayı)</string>
+    <string name="uyg3">Uygulama 3 (Char)</string>
+    <string name="uyg4">Uygulama 4 (ASCII)</string>
+    <string name="uyg5">Uygulama 5 (Ondalık Sayılar)</string>
+    <string name="uyg6">Uygulama 6 (Sabit Veri Tipleri ve Yarı Çap)</string>
+    <string name="uyg7">Uygulama 7 (Aritmetik Operatörler)</string>
+    <string name="uyg8">Uygulama 8 (Atama Operatörleri)</string>
+    <string name="uyg9">Uygulama 9 (Karşılaştırma Operatörleri)</string>
+    <string name="uyg10">Uygulama 10 (Mantıksal Operatörler)</string>
+    <string name="uyg11">Uygulama 11 (Logcat)</string>
+    <string name="uyg12">Uygulama 12 (Try-Catch-Finally)</string>
+    <string name="geri">Geri</string>
+    <string name="txtCalistirildi">Çalıştırıldı</string>
+    <string name="btnCalistir">Çalıştır</string>
+    <string name="sayi1">Sayı 1</string>
+    <string name="sayi2">Sayı 2</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="sayi">Sayi</string>
+</resources>
