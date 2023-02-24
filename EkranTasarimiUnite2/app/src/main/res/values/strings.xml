@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ekran Tasarımı Unite-2</string>
+    <string name="uyg3">Uygulama 3</string>
+    <string name="geri">Geri</string>
+    <string name="sifre">Şifreni yaz</string>
+    <string name="uyg4">Uygulama 4</string>
+    <string name="todo">TODO</string>
+    <string name="uyg5">Uygulama 5</string>
+    <string name="uyg10">Uygulama 10</string>
+    <string name="uyg9">Uygulama 9</string>
+    <string name="uyg8">Uygulama 8</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="textview">TextView</string>
+</resources>
