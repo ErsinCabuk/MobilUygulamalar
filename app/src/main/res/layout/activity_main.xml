@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="32dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textViewHepsi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textViewSayi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:textColor="@color/black"
+        android:textSize="34sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonGorunmez3"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:backgroundTint="@color/white"
+            android:text="7"
+            android:textSize="34sp" />
+
+        <Button
+            android:id="@+id/buttonHepsiniSil"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:onClick="buttonHepsiniSil"
+            android:text="HS"
+            android:textSize="34sp" />
+
+        <Button
+            android:id="@+id/buttonSil"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_weight="1"
+            android:layout_marginRight="10dp"
+            android:onClick="buttonSil"
+            android:text="S"
+            android:textSize="34sp" />
+
+        <Button
+            android:id="@+id/buttonHesapla"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_weight="1"
+            android:onClick="buttonHesapla"
+            android:text="="
+            android:textSize="34sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/yedi"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:onClick="buttonSayilar"
+            android:text="7"
+            android:textSize="34sp" />
+
+        <Button
+            android:id="@+id/sekiz"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:onClick="buttonSayilar"
+            android:textSize="34sp"
+            android:text="8" />
+
+        <Button
+            android:id="@+id/dokuz"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:onClick="buttonSayilar"
+            android:textSize="34sp"
+            android:text="9" />
+
+        <Button
+            android:id="@+id/buttonBolme"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_weight="1"
+            android:onClick="buttonIslemler"
+            android:textSize="34sp"
+            android:text="/" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/dort"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:onClick="buttonSayilar"
+            android:textSize="34sp"
+            android:text="4" />
+
+        <Button
+            android:id="@+id/bes"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:onClick="buttonSayilar"
+            android:textSize="34sp"
+            android:text="5" />
+
+        <Button
+            android:id="@+id/alti"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:onClick="buttonSayilar"
+            android:textSize="34sp"
+            android:text="6" />
+
+        <Button
+            android:id="@+id/buttonCarpma"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_weight="1"
+            android:onClick="buttonIslemler"
+            android:textSize="34sp"
+            android:text="x" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/bir"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:onClick="buttonSayilar"
+            android:textSize="34sp"
+            android:text="1" />
+
+        <Button
+            android:id="@+id/iki"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:onClick="buttonSayilar"
+            android:textSize="34sp"
+            android:text="2" />
+
+        <Button
+            android:id="@+id/uc"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:onClick="buttonSayilar"
+            android:textSize="34sp"
+            android:text="3" />
+
+        <Button
+            android:id="@+id/buttonTopla"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_weight="1"
+            android:onClick="buttonIslemler"
+            android:textSize="34sp"
+            android:text="+" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonGorunmez"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:backgroundTint="@color/white"
+            android:text="0"
+            android:textSize="34sp" />
+
+        <Button
+            android:id="@+id/sifir"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:onClick="buttonSayilar"
+            android:text="0"
+            android:textSize="34sp" />
+
+        <Button
+            android:id="@+id/virgul"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:onClick="buttonNokta"
+            android:text="."
+            android:textSize="34sp" />
+
+        <Button
+            android:id="@+id/buttonEksi"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_weight="1"
+            android:onClick="buttonIslemler"
+            android:text="-"
+            android:textSize="34sp" />
+
+    </LinearLayout>
+
+</LinearLayout>
