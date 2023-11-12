@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".unite7.Unite7Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnUyg1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/purple"
+            android:onClick="btnUyg1"
+            android:text="@string/u7_uyg1_isim"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/btnUyg2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/purple"
+            android:onClick="btnUyg2"
+            android:text="@string/u7_uyg2_isim"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/btnUyg3456"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/purple"
+            android:onClick="btnUyg3456"
+            android:text="@string/u7_uyg3_isim"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/btnUyg7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/purple"
+            android:onClick="btnUyg7"
+            android:text="@string/u7_uyg7_isim"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/btnUyg8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/purple"
+            android:onClick="btnUyg8"
+            android:text="@string/u7_uyg8_isim"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/btnUyg9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/purple"
+            android:onClick="btnUyg9"
+            android:text="@string/u7_uyg9_isim"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/btnUyg10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/purple"
+            android:onClick="btnUyg10"
+            android:text="@string/u7_uyg10_isim"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/btnUyg11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/purple"
+            android:onClick="btnUyg11"
+            android:text="@string/u7_uyg11_isim"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/btnUyg12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/purple"
+            android:onClick="btnUyg12"
+            android:text="@string/u7_uyg12_isim"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/btnUyg13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/purple"
+            android:onClick="btnUyg13"
+            android:text="@string/u7_uyg13_isim"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+    </LinearLayout>
+
+</LinearLayout>

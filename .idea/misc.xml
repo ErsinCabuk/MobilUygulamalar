@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.27" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/drawable/ic_launcher_background.xml" value="0.27" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/7.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/activity_main.xml" value="0.33016304347826086" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u2_activity.xml" value="0.2413223140495868" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u2_uyg3_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u2_uyg4_activity.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u2_uyg5_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u2_uyg8_activity.xml" value="0.22" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u2_uyg9_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u3.xml" value="0.284737067122702" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u3_1_sayili_activity.xml" value="0.1470713980333476" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u3_activity.xml" value="0.28388200085506626" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u3_bir_sayili_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u3_iki_sayili_activity.xml" value="0.22" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u3_uyg_basit_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u4_activity.xml" value="0.284737067122702" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u4_gs1_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u4_gs2_activity.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u4_uyg10_activity.xml" value="0.22" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u4_uyg1_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u4_uyg2_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u4_uyg3_activity.xml" value="0.22" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u4_uyg4_activity.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u4_uyg5_activity.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u4_uyg6_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u4_uyg7_activity.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u4_uyg8_activity.xml" value="0.13638306968790082" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u4_uyg9_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_activity.xml" value="0.2573749465583583" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_gs1_activity.xml" value="0.21" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_ss165_activity.xml" value="0.22" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_ss168_activity.xml" value="0.22" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_ss173_activity.xml" value="0.22" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_ss188_activity.xml" value="0.22" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_ss206_activity.xml" value="0.18" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_ss214_activity.xml" value="0.22" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_uyg10_activity.xml" value="0.26875" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_uyg11_activity.xml" value="0.26875" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_uyg12_activity.xml" value="0.26875" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_uyg13_activity.xml" value="0.26875" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_uyg1_activity.xml" value="0.26875" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_uyg2_activity.xml" value="0.26875" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_uyg3_activity.xml" value="0.26875" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_uyg4_activity.xml" value="0.26875" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_uyg5_activity.xml" value="0.26875" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_uyg6_activity.xml" value="0.26875" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_uyg7_activity.xml" value="0.26875" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_uyg8_activity.xml" value="0.26875" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u5_uyg9_activity.xml" value="0.26875" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u6_activity.xml" value="0.28388200085506626" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u6_ss247_activity.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u6_uyg10_activity.xml" value="0.22" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u6_uyg1_activity.xml" value="0.284737067122702" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u6_uyg2_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u6_uyg3_activity.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u6_uyg3_bilgi_activity.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u6_uyg4_bilgi_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u6_uyg4_giris_activity.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u6_uyg5_bilgi_activity.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u6_uyg5_giris_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u6_uyg6_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u6_uyg7_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u6_uyg8_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u6_uyg8_fragment1.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u6_uyg8_fragment2.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_activity.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg10_activity.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg11_activity.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg12_activity.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg13_activity.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg1_activity.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg2_activity.xml" value="0.1" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg3_activity.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg3_islemler_activity.xml" value="0.3282051282051282" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg3_list_satir.xml" value="0.3" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg3_satir.xml" value="0.33229166666666665" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg3_urun_detay.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg3_urun_detay_activity.xml" value="0.3282051282051282" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg3_urundetay.xml" value="0.3" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg3_yeni_activity.xml" value="0.31435897435897436" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg4_activity.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg4_urun_detay.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg4_urun_detay_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg5_activity.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg6_activity.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg7_activity.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg8_activity.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg9_activity.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/u7_uyg_.xml" value="0.3282051282051282" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/uniteler_activity.xml" value="0.33" />
+        <entry key="..\:/Users/Ogrenci/AndroidStudioProjects/MobilUygulamalar/app/src/main/res/layout/uygulama3.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

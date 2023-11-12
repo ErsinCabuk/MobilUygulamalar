@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnUyg1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btnUyg1"
+            android:backgroundTint="@color/orange"
+            android:textColor="@color/black"
+            android:text="@string/u5_uyg1_isim" />
+
+        <Button
+            android:id="@+id/btnUyg2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/orange"
+            android:textColor="@color/black"
+            android:onClick="btnUyg2"
+            android:text="@string/u5_uyg2_isim" />
+
+        <Button
+            android:id="@+id/btnUyg3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/orange"
+            android:textColor="@color/black"
+            android:onClick="btnUyg3"
+            android:text="@string/u5_uyg3_isim" />
+
+        <Button
+            android:id="@+id/btnUyg4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/orange"
+            android:textColor="@color/black"
+            android:onClick="btnUyg4"
+            android:text="@string/u5_uyg4_isim" />
+
+        <Button
+            android:id="@+id/btnUyg5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/orange"
+            android:textColor="@color/black"
+            android:onClick="btnUyg5"
+            android:text="@string/u5_uyg5_isim" />
+
+        <Button
+            android:id="@+id/btnUyg6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/orange"
+            android:textColor="@color/black"
+            android:onClick="btnUyg6"
+            android:text="@string/u5_uyg6_isim" />
+
+        <Button
+            android:id="@+id/btnUyg7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/orange"
+            android:textColor="@color/black"
+            android:onClick="btnUyg7"
+            android:text="@string/u5_uyg7_isim" />
+
+        <Button
+            android:id="@+id/btnUyg8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/orange"
+            android:textColor="@color/black"
+            android:onClick="btnUyg8"
+            android:text="@string/u5_uyg8_isim" />
+
+        <Button
+            android:id="@+id/btnUyg9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/orange"
+            android:textColor="@color/black"
+            android:onClick="btnUyg9"
+            android:text="@string/u5_uyg9_isim" />
+
+        <Button
+            android:id="@+id/btnUyg10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/orange"
+            android:textColor="@color/black"
+            android:onClick="btnUyg10"
+            android:text="@string/u5_uyg10_isim" />
+
+        <Button
+            android:id="@+id/btnUyg11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/orange"
+            android:textColor="@color/black"
+            android:onClick="btnUyg11"
+            android:text="@string/u5_uyg11_isim" />
+
+        <Button
+            android:id="@+id/btnUyg12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/orange"
+            android:textColor="@color/black"
+            android:onClick="btnUyg12"
+            android:text="@string/u5_uyg12_isim" />
+
+        <Button
+            android:id="@+id/btnUyg13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/orange"
+            android:minHeight="48dp"
+            android:onClick="btnUyg13"
+            android:text="@string/u5_uyg13_isim"
+            android:textColor="@color/black" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnSS165"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btnSS165"
+            android:backgroundTint="@color/red"
+            android:textColor="@color/black"
+            android:text="@string/u5_ss165_isim" />
+
+        <Button
+            android:id="@+id/btnSS168"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btnSS168"
+            android:backgroundTint="@color/red"
+            android:textColor="@color/black"
+            android:text="@string/u5_ss168_isim" />
+
+        <Button
+            android:id="@+id/btnSS173"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btnSS173"
+            android:backgroundTint="@color/red"
+            android:textColor="@color/black"
+            android:text="@string/u5_ss173_isim" />
+
+        <Button
+            android:id="@+id/btnSS188"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btnSS188"
+            android:backgroundTint="@color/red"
+            android:textColor="@color/black"
+            android:text="@string/u5_ss188_isim" />
+
+        <Button
+            android:id="@+id/btnSS206"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btnSS206"
+            android:backgroundTint="@color/red"
+            android:textColor="@color/black"
+            android:text="@string/u5_ss206_isim" />
+
+        <Button
+            android:id="@+id/btnSS2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btnSS214"
+            android:backgroundTint="@color/red"
+            android:textColor="@color/black"
+            android:text="@string/u5_ss214_isim" />
+
+        <Button
+            android:id="@+id/btnGS1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btnGS1"
+            android:backgroundTint="@color/gold"
+            android:textColor="@color/black"
+            android:text="@string/u5_gs1_isim" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,142 @@
+<resources>
+    <string name="uygulama_isim">Mobil Uygulamalar</string>
+
+    <!-- ############################## UNITE 2 ############################## -->
+    <string name="unite2_isim">Ekran Tasarımı (Ünite 2)</string>
+    <string name="u2_uyg3_isim">Uygulama 3</string>
+    <string name="u2_uyg4_isim">Uygulama 4</string>
+    <string name="u2_uyg5_isim">Uygulama 5</string>
+    <string name="u2_uyg8_isim">Uygulama 8</string>
+    <string name="u2_uyg9_isim">Uygulama 9</string>
+    <!-- ############################## UNITE 2 ############################## -->
+
+    <!-- ############################## UNITE 3 ############################## -->
+    <string name="unite3_isim">Temel Komutlar (Ünite 3)</string>
+    <string name="u3_uyg1_isim">Uygulama 1</string>
+    <string name="u3_uyg2_isim">Uygulama 2</string>
+    <string name="u3_uyg3_isim">Uygulama 3</string>
+    <string name="u3_uyg4_isim">Uygulama 4</string>
+    <string name="u3_uyg5_isim">Uygulama 5</string>
+    <string name="u3_uyg6_isim">Uygulama 6</string>
+    <string name="u3_uyg7_isim">Uygulama 7</string>
+    <string name="u3_uyg8_isim">Uygulama 8</string>
+    <string name="u3_uyg9_isim">Uygulama 9</string>
+    <string name="u3_uyg10_isim">Uygulama 10</string>
+    <string name="u3_uyg11_isim">Uygulama 11</string>
+    <string name="u3_uyg12_isim">Uygulama 12</string>
+    <!-- ############################## UNITE 3 ############################## -->
+
+    <!-- ############################## UNITE 4 ############################## -->
+    <string name="unite4_isim">Karar ve Döngü (Ünite 4)</string>
+    <string name="u4_uyg1_isim">Uygulama 1</string>
+    <string name="u4_uyg2_isim">Uygulama 2</string>
+    <string name="u4_uyg3_isim">Uygulama 3</string>
+    <string name="u4_uyg4_isim">Uygulama 4</string>
+    <string name="u4_uyg5_isim">Uygulama 5</string>
+    <string name="u4_uyg6_isim">Uygulama 6</string>
+    <string name="u4_uyg7_isim">Uygulama 7</string>
+    <string name="u4_uyg8_isim">Uygulama 8</string>
+    <string name="u4_uyg9_isim">Uygulama 9</string>
+    <string name="u4_uyg10_isim">Uygulama 10</string>
+    <string name="u4_gs1_isim">Gold Soru 1</string>
+    <string name="u4_gs2_isim">Gold Soru 2</string>
+    <!-- ############################## UNITE 4 ############################## -->
+
+    <!-- ############################## UNITE 5 ############################## -->
+    <string name="unite5_isim">Gelişmiş Komutlar (Ünite 5)</string>
+    <string name="u5_uyg1_isim">Uygulama 1</string>
+    <string name="u5_uyg2_isim">Uygulama 2</string>
+    <string name="u5_uyg3_isim">Uygulama 3</string>
+    <string name="u5_uyg4_isim">Uygulama 4</string>
+    <string name="u5_uyg5_isim">Uygulama 5</string>
+    <string name="u5_uyg6_isim">Uygulama 6</string>
+    <string name="u5_uyg7_isim">Uygulama 7</string>
+    <string name="u5_uyg8_isim">Uygulama 8</string>
+    <string name="u5_uyg9_isim">Uygulama 9</string>
+    <string name="u5_uyg10_isim">Uygulama 10</string>
+    <string name="u5_uyg11_isim">Uygulama 11</string>
+    <string name="u5_uyg12_isim">Uygulama 12</string>
+    <string name="u5_uyg13_isim">Uygulama 13</string>
+    <string name="u5_ss165_isim">Sıra Sizde 165</string>
+    <string name="u5_ss168_isim">Sıra Sizde 168</string>
+    <string name="u5_ss173_isim">Sıra Sizde 173</string>
+    <string name="u5_ss188_isim">Sıra Sizde 188</string>
+    <string name="u5_ss206_isim">Sıra Sizde 206</string>
+    <string name="u5_ss214_isim">Sıra Sizde 214</string>
+    <string name="u5_gs1_isim">Hesap Makinası (Gold Soru 1)</string>
+    <!-- ############################## UNITE 5 ############################## -->
+
+    <!-- ############################## UNITE 6 ############################## -->
+    <string name="unite6_isim">Uygulama Tasarımı (Ünite 6)</string>
+    <string name="u6_uyg1_isim">Uygulama 1</string>
+    <string name="u6_uyg2_isim">Uygulama 2 (Yaşam Döngüsü Metotları)</string>
+    <string name="u6_uyg3_isim">Uygulama 3</string>
+    <string name="u6_uyg3_giris_isim">Uygulama 3 Giris</string>
+    <string name="u6_uyg3_bilgi_isim">Uygulama 3 Bilgi</string>
+    <string name="u6_uyg4_isim">Uygulama 4</string>
+    <string name="u6_uyg5_isim">Uygulama 5</string>
+    <string name="u6_uyg6_isim">Uygulama 6</string>
+    <string name="u6_uyg7_isim">Uygulama 7</string>
+    <string name="u6_uyg8_isim">Uygulama 8</string>
+    <string name="u6_uyg9_isim">Uygulama 9</string>
+    <string name="u6_uyg10_isim">Uygulama 10</string>
+    <string name="u6_ss247_isim">Sıra Sizde 247</string>
+    <!-- ############################## UNITE 6 ############################## -->
+
+    <!-- ############################## UNITE 7 ############################## -->
+    <string name="unite7_isim">Veri Tabanı İşlemleri (Ünite 7)</string>
+    <string name="u7_uyg1_isim">Uygulama 1</string>
+    <string name="u7_uyg2_isim">Uygulama 2</string>
+    <string name="u7_uyg3_isim">Uygulama 3, 4, 5 ve 6</string>
+    <string name="u7_uyg7_isim">Uygulama 7</string>
+    <string name="u7_uyg8_isim">Uygulama 8</string>
+    <string name="u7_uyg9_isim">Uygulama 9</string>
+    <string name="u7_uyg10_isim">Uygulama 10</string>
+    <string name="u7_uyg11_isim">Uygulama 11</string>
+    <string name="u7_uyg12_isim">Uygulama 12</string>
+    <string name="u7_uyg13_isim">Uygulama 13</string>
+    <!-- ############################## UNITE 7 ############################## -->
+
+    <string name="calistirildi">Çalıştırıldı</string>
+    <string name="geri">Geri</string>
+    <string name="ileri">İleri</string>
+    <string name="bilgi">Bilgi</string>
+    <string name="ad_soyad">Ad Soyad</string>
+    <string name="telefon_numarasi">Telefon Numarası</string>
+    <string name="giris">Giriş</string>
+    <string name="kullanici_adi">Kullanıcı Adı</string>
+    <string name="sifre">Şifre</string>
+    <string name="eposta">E-Posta</string>
+    <string name="calistir">Çalıştır</string>
+    <string name="sayi">Sayı</string>
+    <string name="konum_bilgilerini_al">Konum Bilgilerini Al</string>
+    <string name="konum_bilgilerini_gonder">Konum Bilgilerini Gönder</string>
+    <string name="konum_servisleri">Konum Servisleri</string>
+    <string name="ders_notu">Ders Notu</string>
+    <string name="ay">Ay</string>
+    <string name="sayilar">Sayılar</string>
+    <string name="tum_sayilar">Tüm Sayılar</string>
+    <string name="cift_sayilar">Çift Sayılar</string>
+    <string name="tek_sayilar">Tek Sayılar</string>
+    <string name="sonuc">Sonuç</string>
+    <string name="carpim_tablosu">Çarpım Tablosu</string>
+    <string name="tek_sayilar_toplam">Tek Sayılar Toplamı</string>
+    <string name="cift_sayilar_toplam">Çift Sayılar Toplamı</string>
+    <string name="oyun">OYUN</string>
+    <string name="topcu_atesi">Topçu Ateşi</string>
+    <string name="tankci_atesi">Tankci Ateşi</string>
+    <string name="bastan_basla">Baştan Başla</string>
+    <string name="topcu_ates_gucu">Topçu Ateş Gücü</string>
+    <string name="tankci_ates_gucu">Tankcı Ateş Gücü</string>
+    <string name="oyuncu1">1. Oyuncu</string>
+    <string name="oyuncu2">2. Oyuncu</string>
+    <string name="uc">3</string>
+    <string name="bes">5</string>
+    <string name="fragment1">Fragment 1</string>
+    <string name="fragment2">Fragment 2</string>
+    <string name="merhaba_2">Merhaba 2</string>
+    <string name="merhaba_1">Merhaba 1</string>
+    <string name="ad">Ad</string>
+    <string name="soyad">Soyad</string>
+    <string name="kaydet">Kaydet</string>
+</resources>

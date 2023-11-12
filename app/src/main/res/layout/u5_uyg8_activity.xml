@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".unite5.uyg8.Uyg8Activity">
+
+    <TextView
+        android:id="@+id/txtViewBilgi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bilgi"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.028" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtViewBilgi"
+        app:layout_constraintVertical_bias="0.0">
+
+        <Button
+            android:id="@+id/btnArabaKapiSayisi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="btnArabaKapiSayisi"
+            android:text="Araba Kapı Sayısı" />
+
+        <Button
+            android:id="@+id/btnArabaMaksHizi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="btnArabaMaksHizi"
+            android:text="Araba Maksimum Hızı" />
+
+        <Button
+            android:id="@+id/btnArabaCalistir"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="btnArabaCalistir"
+            android:text="Arabayı Çalıştır" />
+
+        <Button
+            android:id="@+id/btnArabaIseGit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="btnArabaIseGit"
+            android:text="Araba İşe Git" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="4dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtViewBilgi"
+        app:layout_constraintVertical_bias="0.0">
+
+        <Button
+            android:id="@+id/btnMinibusKapiSayisi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="btnMinibusKapiSayisi"
+            android:text="Minibus Kapı Sayısı" />
+
+        <Button
+            android:id="@+id/btnMinibusMaksHizi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="btnMinibusMaksHizi"
+            android:text="Minibus Maksimum Hızı" />
+
+        <Button
+            android:id="@+id/btnMinibusCalistir"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="btnMinibusCalistir"
+            android:text="Minibus Çalıştır" />
+
+        <Button
+            android:id="@+id/btnMinibusYolcuIndir"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btnMinibusYolcuIndir"
+            android:text="Minibus Yolcu İndir" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="10dp"
+    android:layout_marginEnd="10dp"
+    android:baselineAligned="false"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnUyg3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnUyg3"
+        android:backgroundTint="@color/blue"
+        android:textColor="@color/black"
+        android:text="@string/u5_uyg3_isim" />
+
+    <Button
+        android:id="@+id/btnUyg4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnUyg4"
+        android:backgroundTint="@color/blue"
+        android:textColor="@color/black"
+        android:text="@string/u5_uyg4_isim" />
+
+    <Button
+        android:id="@+id/btnUyg5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnUyg5"
+        android:backgroundTint="@color/blue"
+        android:textColor="@color/black"
+        android:text="@string/u5_uyg5_isim" />
+
+    <Button
+        android:id="@+id/btnUyg8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnUyg8"
+        android:backgroundTint="@color/blue"
+        android:textColor="@color/black"
+        android:text="@string/u5_uyg8_isim" />
+
+    <Button
+        android:id="@+id/btnUyg9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnUyg9"
+        android:backgroundTint="@color/blue"
+        android:textColor="@color/black"
+        android:text="@string/u5_uyg9_isim" />
+
+</LinearLayout>

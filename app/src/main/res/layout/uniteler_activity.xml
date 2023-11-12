@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="10dp"
+    android:layout_marginEnd="10dp"
+    android:orientation="vertical"
+    tools:context=".UnitelerActivity">
+
+    <Button
+        android:id="@+id/btnUnite2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/blue"
+        android:onClick="btnUnite2"
+        android:text="@string/unite2_isim"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/btnUnite3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/yellow"
+        android:onClick="btnUnite3"
+        android:text="@string/unite3_isim"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/btnUnite4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/darkblue"
+        android:onClick="btnUnite4"
+        android:text="@string/unite4_isim"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/btnUnite5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/orange"
+        android:onClick="btnUnite5"
+        android:text="@string/unite5_isim"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/btnUnite6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/lightyellow"
+        android:onClick="btnUnite6"
+        android:text="@string/unite6_isim"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/btnUnite7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/purple"
+        android:onClick="btnUnite7"
+        android:text="@string/unite7_isim"
+        android:textColor="@color/black" />
+</LinearLayout>

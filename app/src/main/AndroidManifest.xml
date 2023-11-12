@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.ersincabuk.mobiluygulamalar" >
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/uygulama_isim"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MobilUygulamalar"
+        tools:targetApi="31" >
+        <activity
+            android:name=".UnitelerActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity> <!-- UNITE 2 -->
+        <activity
+            android:name=".unite2.Unite2Activity"
+            android:label="@string/unite2_isim" />
+        <activity
+            android:name=".unite2.uyg9.Uyg9Activity"
+            android:label="@string/u2_uyg9_isim" />
+        <activity
+            android:name=".unite2.uyg8.Uyg8Activity"
+            android:label="@string/u2_uyg8_isim" />
+        <activity
+            android:name=".unite2.uyg5.Uyg5Activity"
+            android:label="@string/u2_uyg5_isim" />
+        <activity
+            android:name=".unite2.uyg4.Uyg4Activity"
+            android:label="@string/u2_uyg4_isim" />
+        <activity
+            android:name=".unite2.uyg3.Uyg3Activity"
+            android:label="@string/u2_uyg3_isim" /> <!-- UNITE 2 -->
+        <!-- UNITE 3 -->
+        <activity
+            android:name=".unite3.Unite3Activity"
+            android:label="@string/unite3_isim" />
+        <activity
+            android:name=".unite3.uyg1.Uyg1Activity"
+            android:label="@string/u3_uyg1_isim" />
+        <activity
+            android:name=".unite3.uyg2.Uyg2Activity"
+            android:label="@string/u3_uyg2_isim" />
+        <activity
+            android:name=".unite3.uyg3.Uyg3Activity"
+            android:label="@string/u3_uyg3_isim" />
+        <activity
+            android:name=".unite3.uyg4.Uyg4Activity"
+            android:label="@string/u3_uyg4_isim" />
+        <activity
+            android:name=".unite3.uyg5.Uyg5Activity"
+            android:label="@string/u3_uyg5_isim" />
+        <activity
+            android:name=".unite3.uyg6.Uyg6Activity"
+            android:label="@string/u3_uyg6_isim" />
+        <activity
+            android:name=".unite3.uyg7.Uyg7Activity"
+            android:label="@string/u3_uyg7_isim" />
+        <activity
+            android:name=".unite3.uyg8.Uyg8Activity"
+            android:label="@string/u3_uyg8_isim" />
+        <activity
+            android:name=".unite3.uyg9.Uyg9Activity"
+            android:label="@string/u3_uyg9_isim" />
+        <activity
+            android:name=".unite3.uyg10.Uyg10Activity"
+            android:label="@string/u3_uyg10_isim" />
+        <activity
+            android:name=".unite3.uyg11.Uyg11Activity"
+            android:label="@string/u3_uyg11_isim" />
+        <activity
+            android:name=".unite3.uyg12.Uyg12Activity"
+            android:label="@string/u3_uyg12_isim" /> <!-- UNITE 3 -->
+        <!-- UNITE 4 -->
+        <activity
+            android:name=".unite4.Unite4Activity"
+            android:label="@string/unite4_isim" />
+        <activity
+            android:name=".unite4.gs2.GS2Activity"
+            android:label="@string/u4_gs2_isim" />
+        <activity
+            android:name=".unite4.gs1.GS1Activity"
+            android:label="@string/u4_gs1_isim" />
+        <activity
+            android:name=".unite4.uyg10.Uyg10Activity"
+            android:label="@string/u4_uyg10_isim" />
+        <activity
+            android:name=".unite4.uyg9.Uyg9Activity"
+            android:label="@string/u4_uyg9_isim" />
+        <activity
+            android:name=".unite4.uyg8.Uyg8Activity"
+            android:label="@string/u4_uyg8_isim" />
+        <activity
+            android:name=".unite4.uyg7.Uyg7Activity"
+            android:label="@string/u4_uyg7_isim" />
+        <activity
+            android:name=".unite4.uyg6.Uyg6Activity"
+            android:label="@string/u4_uyg6_isim" />
+        <activity
+            android:name=".unite4.uyg5.Uyg5Activity"
+            android:label="@string/u4_uyg5_isim" />
+        <activity
+            android:name=".unite4.uyg4.Uyg4Activity"
+            android:label="@string/u4_uyg4_isim" />
+        <activity
+            android:name=".unite4.uyg3.Uyg3Activity"
+            android:label="@string/u4_uyg3_isim" />
+        <activity
+            android:name=".unite4.uyg2.Uyg2Activity"
+            android:label="@string/u4_uyg2_isim" />
+        <activity
+            android:name=".unite4.uyg1.Uyg1Activity"
+            android:label="@string/u4_uyg1_isim" /> <!-- UNITE 4 -->
+        <!-- UNITE 5 -->
+        <activity
+            android:name=".unite5.Unite5Activity"
+            android:label="@string/unite5_isim" />
+        <activity
+            android:name=".unite5.gs1.GS1Activity"
+            android:label="@string/u5_gs1_isim" />
+        <activity
+            android:name=".unite5.ss214.SS214Activity"
+            android:label="@string/u5_ss214_isim" />
+        <activity
+            android:name=".unite5.ss206.SS206Activity"
+            android:label="@string/u5_ss206_isim" />
+        <activity
+            android:name=".unite5.ss188.SS188Activity"
+            android:label="@string/u5_ss188_isim" />
+        <activity
+            android:name=".unite5.ss173.SS173Activity"
+            android:label="@string/u5_ss173_isim" />
+        <activity
+            android:name=".unite5.ss168.SS168Activity"
+            android:label="@string/u5_ss168_isim" />
+        <activity
+            android:name=".unite5.ss165.SS165Activity"
+            android:label="@string/u5_ss165_isim" />
+        <activity
+            android:name=".unite5.uyg7.Uyg7Activity"
+            android:label="@string/u5_uyg7_isim" />
+        <activity
+            android:name=".unite5.uyg13.Uyg13Activity"
+            android:label="@string/u5_uyg13_isim" />
+        <activity
+            android:name=".unite5.uyg12.Uyg12Activity"
+            android:label="@string/u5_uyg12_isim" />
+        <activity
+            android:name=".unite5.uyg11.Uyg11Activity"
+            android:label="@string/u5_uyg11_isim" />
+        <activity
+            android:name=".unite5.uyg10.Uyg10Activity"
+            android:label="@string/u5_uyg10_isim" />
+        <activity
+            android:name=".unite5.uyg9.Uyg9Activity"
+            android:label="@string/u5_uyg9_isim" />
+        <activity
+            android:name=".unite5.uyg8.Uyg8Activity"
+            android:label="@string/u5_uyg8_isim" />
+        <activity
+            android:name=".unite5.uyg6.Uyg6Activity"
+            android:label="@string/u5_uyg6_isim" />
+        <activity
+            android:name=".unite5.uyg5.Uyg5Activity"
+            android:label="@string/u5_uyg5_isim" />
+        <activity
+            android:name=".unite5.uyg4.Uyg4Activity"
+            android:label="@string/u5_uyg4_isim" />
+        <activity
+            android:name=".unite5.uyg3.Uyg3Activity"
+            android:label="@string/u5_uyg3_isim" />
+        <activity
+            android:name=".unite5.uyg2.Uyg2Activity"
+            android:label="@string/u5_uyg2_isim" />
+        <activity
+            android:name=".unite5.uyg1.Uyg1Activity"
+            android:label="@string/u5_uyg1_isim" /> <!-- UNITE 5 -->
+        <!-- UNITE 6 -->
+        <activity
+            android:name=".unite6.Unite6Activity"
+            android:label="@string/unite6_isim" />
+        <activity
+            android:name=".unite6.uyg1.Uyg1Activity"
+            android:label="@string/u5_uyg1_isim" />
+        <activity
+            android:name=".unite6.uyg2.Uyg2Activity"
+            android:label="@string/u6_uyg2_isim" />
+        <activity
+            android:name=".unite6.uyg3.Uyg3GirisActivity"
+            android:label="@string/u6_uyg3_giris_isim" />
+        <activity
+            android:name=".unite6.uyg3.Uyg3BilgiActivity"
+            android:label="@string/u6_uyg3_bilgi_isim" />
+        <activity
+            android:name=".unite6.uyg4.Uyg4BilgiActivity"
+            android:label="@string/u6_uyg4_isim" />
+        <activity
+            android:name=".unite6.uyg4.Uyg4GirisActivity"
+            android:label="@string/u6_uyg4_isim" />
+        <activity
+            android:name=".unite6.uyg5.Uyg5GirisActivity"
+            android:label="@string/u6_uyg5_isim" />
+        <activity
+            android:name=".unite6.uyg5.Uyg5BilgiActivity"
+            android:label="@string/u6_uyg5_isim" />
+        <activity
+            android:name=".unite6.ss247.SS247Activity"
+            android:label="@string/u6_ss247_isim" />
+        <activity
+            android:name=".unite6.uyg6.Uyg6Activity"
+            android:label="@string/u6_uyg6_isim" />
+        <activity
+            android:name=".unite6.uyg10.Uyg10Activity"
+            android:label="@string/u6_uyg10_isim" />
+        <activity
+            android:name=".unite6.uyg8.Uyg8Activity"
+            android:label="@string/u6_uyg8_isim" /> <!-- UNITE 6 -->
+        <!-- UNITE 7 -->
+        <activity
+            android:name=".unite7.uyg1.Uyg1Activity"
+            android:label="@string/u7_uyg1_isim" />
+        <activity
+            android:name=".unite7.uyg2.Uyg2Activity"
+            android:label="@string/u7_uyg2_isim" />
+        <activity
+            android:name=".unite7.uyg3_uyg4_uyg5_uyg6.IslemlerActivity"
+            android:label="@string/u7_uyg3_isim" />
+        <activity
+            android:name=".unite7.uyg3_uyg4_uyg5_uyg6.UygActivity"
+            android:label="@string/u7_uyg3_isim" />
+        <activity
+            android:name=".unite7.uyg7.Uyg7Activity"
+            android:label="@string/u7_uyg7_isim" />
+        <activity
+            android:name=".unite7.uyg8.Uyg8Activity"
+            android:label="@string/u7_uyg8_isim" />
+        <activity
+            android:name=".unite7.uyg9.Uyg9Activity"
+            android:label="@string/u7_uyg9_isim" />
+        <activity
+            android:name=".unite7.uyg10.Uyg10Activity"
+            android:label="@string/u7_uyg10_isim" />
+        <activity
+            android:name=".unite7.uyg11.Uyg11Activity"
+            android:label="@string/u7_uyg11_isim" />
+        <activity
+            android:name=".unite7.uyg12.Uyg12Activity"
+            android:label="@string/u7_uyg12_isim" />
+        <activity
+            android:name=".unite7.uyg13.Uyg13Activity"
+            android:label="@string/u7_uyg13_isim" />
+        <activity
+            android:name=".unite7.Unite7Activity"
+            android:label="@string/unite7_isim" />
+    </application>
+
+</manifest>
